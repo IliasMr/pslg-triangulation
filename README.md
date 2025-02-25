@@ -12,7 +12,7 @@ We use [CGAL](https://www.cgal.org/) library.
 ## Example 
 
 **input**<br>
-![alt text](docs/image.png)
+![alt text](docs/image.png) <br>
 **solution**<br>
 ![alt text](docs/image-1.png)
 
