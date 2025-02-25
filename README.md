@@ -11,10 +11,9 @@ We use [CGAL](https://www.cgal.org/) library.
 
 ## Example 
 
-**input**
+**input**<br>
 ![alt text](docs/image.png)
-
-**solution**
+**solution**<br>
 ![alt text](docs/image-1.png)
 
 ## Build and run 
@@ -29,6 +28,6 @@ make
 
 
 ## Contributors 
-[IliasMr](https://github.com/IliasMr)
+[IliasMr](https://github.com/IliasMr)<br>
 [xKostmand](https://github.com/xKostmand)
 
