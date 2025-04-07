@@ -22,7 +22,7 @@ mkdir build
 cd build
 cmake ..
 make
-./opt_triangulation -i ../input.json -o ../output.json [-preselected_params]
+./opt_triangulation -i ../input.json -o ../output.json <-preselected_params>
 ```
 - **dependencies:** Cgal, Boost, Qt, cmake
 
